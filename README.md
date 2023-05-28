@@ -24,7 +24,7 @@ The Routes here used in project
 - /reports/:status → List all the reports of all the patients filtered by a specific status
   
 ## Tech stack
- Node.js , Express , Mongo-DB , passport-JWT
+ Node.js , Express , Mongo-DB , passport-JWT 
   
 
   ## Operation check route end point on postman
